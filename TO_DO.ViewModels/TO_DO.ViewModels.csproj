@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MvvmCross" Version="6.1.2" />
+    <PackageReference Include="MvvmCross.Platform" Version="5.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TO_DO.Data\TO_DO.DataRepository.csproj" />
+    <ProjectReference Include="..\TO_DO.Models\TO_DO.Models.csproj" />
+  </ItemGroup>
+
+</Project>

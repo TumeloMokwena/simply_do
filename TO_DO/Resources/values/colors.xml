@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+
+  <!--Button colours-->
+    <color name="PrimaryButtonColor">#5C6B73</color>
+    <color name="SecondaryButtonColor">#9DB4C0</color>
+
+    <!--Theme colours-->
+    <color name="PrimaryActionBarColour">#5C6B73</color>
+    <color name="PrimaryActionBarDarkColour">#253237</color>
+    <color name="ActionBarAccent">#9DB4C0</color>
+</resources>

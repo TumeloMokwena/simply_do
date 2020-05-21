@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TO_DO.ViewModels/obj
+/TO_DO/obj
+/TO_DO/bin/Debug
+/TO_DO/.vs/TO_DO/v16
+/TO_DO/.vs/TO_DO/DesignTimeBuild
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/TO_DO.Data/bin/Debug/netstandard2.0
+/TO_DO.Data/obj/Debug/netstandard2.0
+/TO_DO.Data/obj/Release/netstandard2.0
+/TO_DO.Data/obj
+/TO_DO.Models/bin/Debug/netstandard2.0
+/TO_DO.Models/obj
+/TO_DO.ViewModels/bin/Debug/netstandard2.0

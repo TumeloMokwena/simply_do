@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C2DFE3">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/simply_do_logo"
+        android:maxWidth="100dp"
+        android:maxHeight="60dp"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+    />
+
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:text="Create New"
+        android:textColor="#ffffff"
+        android:layout_marginTop="160dp"
+        android:layout_gravity="center"
+        android:background="@color/PrimaryButtonColor"
+        android:id="@+id/newToDoNavButton" />
+
+</LinearLayout>

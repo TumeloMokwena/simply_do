@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TO_DO</string>
+    <string name="actionbar_title_TDL">To Do List</string>
+    <string name="action_settings">Settings</string>
+</resources>
