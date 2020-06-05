@@ -25,4 +25,5 @@ What's missing:
 1. Binding checkboxes to item IsCompleted field
 2. Binding progress bar % status and progress bar indicator
 3. Delete function is writed and not mapped.
+4. Add functionality needs to be fixed.
 
